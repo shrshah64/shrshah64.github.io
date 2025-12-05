@@ -64,7 +64,7 @@ author:
   links:
     - label: "Mumbai, India"
       icon: "fas fa-map-pin"
-    #  url: "Mumbai, India"
+      url: ""
     - label: "https://vijeetghatge.com"
       icon: "fas fa-fw fa-link"
       url: "https://vijeetghatge.com"
