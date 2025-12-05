@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Vijeet Ghatge"
-  avatar : "/assets/images/Vij.jpg"
+  avatar : "/assets/images/vij.jpg"
   bio    : "Graduate Student of Finance Babson College interested in Derivatives."
   links:
     - label: "Website"
